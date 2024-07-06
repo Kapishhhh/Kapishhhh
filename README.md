@@ -17,7 +17,11 @@
 <h2 align="left">I code with</h2>
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Kapishhhh/count.svg?"  />
+</div>
 
+###
 
 
 <div align="center">
