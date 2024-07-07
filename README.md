@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapishhhh&show_icons=true&locale=en&layout=compact" alt="kapishhhh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapishhhh&show_icons=true&locale=en" alt="kapishhhh" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapishhhh&" alt="kapishhhh" /></p>
