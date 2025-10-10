@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
+  <!-- Animated coding man -->
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding man" />
 </div>
 
 ###
@@ -32,6 +33,7 @@
 ###
 
 <div align="left">
+  <!-- Existing tools -->
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="arduino logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="c logo" />
@@ -49,6 +51,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40" alt="photoshop logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" height="40" alt="canva logo" />
 </div>
 
 ###
@@ -58,7 +66,7 @@
 ###
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=kapishhhh" alt="kapishhhh" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kapishhhh" alt="kapishhhh trophies" />
 </p>
 
 ###
@@ -68,7 +76,7 @@
 ###
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kapishhhh&show_icons=true&locale=en&layout=compact" alt="kapishhhh" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kapishhhh&show_icons=true&locale=en&layout=compact" alt="kapishhhh languages" />
 </p>
 
 <div align="center">
