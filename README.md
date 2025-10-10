@@ -78,6 +78,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapishhhh&theme=dark&hide_border=false" height="220" alt="kapishhhh streak stats" />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapishhhh&" alt="kapishhhh" /></p>
 
 ###
