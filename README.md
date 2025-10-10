@@ -33,10 +33,10 @@
 ###
 
 <div align="left">
-  <!-- Updated Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
+  <!-- Simplified HTML & CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
@@ -49,6 +49,8 @@
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="40" alt="illustrator logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40" alt="photoshop logo" />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1998/1998759.png" height="40" alt="digital marketing logo" />
 </div>
 
 ###
@@ -57,9 +59,9 @@
 
 ###
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=kapishhhh" alt="kapishhhh trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=kapishhhh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="kapishhhh trophy graph" />
+</div>
 
 ###
 
@@ -74,5 +76,12 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapishhhh&theme=dark&hide_border=false" height="220" alt="kapishhhh streak stats" />
 </div>
+
+###
+
+<br clear="both">
+
+<!-- 🐍 Snake animation -->
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
