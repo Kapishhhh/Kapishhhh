@@ -81,7 +81,6 @@
 
 <br clear="both">
 
-<!-- 🐍 Snake animation -->
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<h3 align="left" style="color:#00e676;">🐍 Contribution Snake</h3>
 
-###
+<img src="https://raw.githubusercontent.com/kapishhhh/kapishhhh/output/snake.svg" alt="Snake animation" />
