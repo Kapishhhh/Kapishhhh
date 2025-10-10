@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kapish</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate WEB DESIGNER </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapishhhh&label=Profile%20views&color=0e75b6&style=flat" alt="kapishhhh" /> </p>
 
 
 - 🌱 I’m currently learning **backend development**
 
-- 💬 Ask me about **html, css, python**
+- 💬 Ask me about **Web Designing, Digital Marketing, Java**
 
 - 📫 How to reach me **kapishsah@gmail.com**
 
