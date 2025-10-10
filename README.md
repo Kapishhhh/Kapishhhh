@@ -78,6 +78,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapishhhh&theme=dark&hide_border=false" height="220" alt="kapishhhh streak stats" />
 </div>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
