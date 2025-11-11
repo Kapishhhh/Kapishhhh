@@ -21,7 +21,7 @@
 ###
 
 <p align="left">
-- 🌱 I’m currently learning <b>backend development</b><br>
+- 🌱 I’m currently learning <b>Python </b><br>
 - 💬 Ask me about <b>Web Designing, Digital Marketing, Java</b><br>
 - 📫 How to reach me: <b>kapishsah@gmail.com</b>
 </p>
